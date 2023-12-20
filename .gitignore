@@ -95,7 +95,7 @@ typings/
 # End of https://www.gitignore.io/api/node
 
 # tsc generated dir
-lib/
+# lib/
 
 # typedoc
 docs
