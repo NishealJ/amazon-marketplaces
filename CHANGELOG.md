@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [18.0.1](https://github.com/ScaleLeap/amazon-marketplaces/compare/v18.0.0...v18.0.1) (2024-05-13)
+
+
+### Bug Fixes
+
+* entry points in the build ([#635](https://github.com/ScaleLeap/amazon-marketplaces/issues/635)) ([9ceab9a](https://github.com/ScaleLeap/amazon-marketplaces/commit/9ceab9a819fea3c477e4647ae97577a490dd73c8)), closes [/github.com/ScaleLeap/amazon-marketplaces/pull/619/files#diff-b55cdbef4907b7045f32cc5360d48d262cca5f94062e353089f189f4460039e0R12](https://github.com//github.com/ScaleLeap/amazon-marketplaces/pull/619/files/issues/diff-b55cdbef4907b7045f32cc5360d48d262cca5f94062e353089f189f4460039e0R12) [#634](https://github.com/ScaleLeap/amazon-marketplaces/issues/634)
+
+# [18.0.0](https://github.com/ScaleLeap/amazon-marketplaces/compare/v17.3.1...v18.0.0) (2024-05-08)
+
+
+### Features
+
+* add South Africa marketplace ([#629](https://github.com/ScaleLeap/amazon-marketplaces/issues/629)) ([b26ea73](https://github.com/ScaleLeap/amazon-marketplaces/commit/b26ea7365e5e21bc13a8fac92f96a3952c1f5cae))
+
+
+### BREAKING CHANGES
+
+* add South Africa marketplace
+
+## [17.3.1](https://github.com/ScaleLeap/amazon-marketplaces/compare/v17.3.0...v17.3.1) (2024-05-08)
+
+
+### Bug Fixes
+
+* change SA to EU region for ads ([#593](https://github.com/ScaleLeap/amazon-marketplaces/issues/593)) ([d7ac064](https://github.com/ScaleLeap/amazon-marketplaces/commit/d7ac064107a57f706020165ebab3756a47cb354a)), closes [#592](https://github.com/ScaleLeap/amazon-marketplaces/issues/592)
+
 # [17.3.0](https://github.com/ScaleLeap/amazon-marketplaces/compare/v17.2.0...v17.3.0) (2023-05-08)
 
 
